@@ -1,6 +1,5 @@
 * <!-- TITLE: Home -->
 <!-- SUBTITLE: A quick summary of how to use the LectureLinx Documentation site -->
-
 # LectureLinx Documentation  
 ## Overview
 This providers user and developer information about LectureLinx systems, integrations and sites.
