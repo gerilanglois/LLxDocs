@@ -1,4 +1,4 @@
-<!-- TITLE: Common Libraries, Services & Integration -->
+<!-- TITLE: Common Services -->
 <!-- SUBTITLE: A quick summary of and internal and external libraries, services and integrations -->
 
 # What libraries, services and integrations do we use?
