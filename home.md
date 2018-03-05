@@ -11,7 +11,7 @@ This provides user and developer information about LectureLinx systems, integrat
 * [Managing access rights](https://docs.requarks.io/wiki/admin-guide/manage-access-rights)
 * [User guide](https://docs.requarks.io/wiki)
 * [Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
-* 
+
 
 
 
