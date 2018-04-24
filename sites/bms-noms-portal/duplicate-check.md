@@ -14,7 +14,7 @@ When a service provider is add via the SP Add functionality on the site the cont
 
 5. **WCF:** Using NominationsApi calls nominationsApiClient.MarkAsExported
 
-6. **Site:** Using a Web Hook calls NominationsApiController.MarkAsExported
+6. **Site:** Using a Web Hook calls NominationsApiController.MarkAsExported (sets contract.SetToCrmUtc = DateTime.UtcNow)
 
 7. **WCF:** Returns a PullNewHCPsFromNomToCRM Response
 
