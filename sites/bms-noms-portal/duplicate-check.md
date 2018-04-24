@@ -1,7 +1,7 @@
 <!-- TITLE: Duplicate Check -->
 <!-- SUBTITLE: A quick summary of Duplicate Check -->
 
-# Duplicate Check Integration with CRM
+# BMS Noms Portal Duplicate Check Integration with CRM
 When a service provider is add via the SP Add functionality on the site the contract for the process they are being added to is marked with an internal status of PendingDuplicateCheck.
 
 1. **CRM:** Workflow initiates WCF Pull Request (scheduled hourly)
