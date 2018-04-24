@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A detailed view of the BMS Noms Portal Duplicate Check process -->
 
 # BMS Noms Portal Duplicate Check Integration with CRM
-When a service provider is add via the SP Add functionality on the site the contract for the process they are being added to is marked with an internal status of PendingDuplicateCheck. From there, this following process is utilized:
+When a service provider is added via the SP Add functionality on the site the contract for the process they are being added to is marked with an internal status of PendingDuplicateCheck. From there, the contract is placed in the "Pending" grid and  this following process is utilized:
 
 1. **CRM:** Workflow initiates WCF Pull Request (scheduled hourly)
 
@@ -39,3 +39,7 @@ When a service provider is add via the SP Add functionality on the site the cont
 17. **Site:** Crm Info Complete workflow traps incoming crm status change of New_Speaker_Submitted_For_Review  and sets the internal status to CrmInfoComplete
 
 18. **Site:** using CrmContractEventHandler detects the internal status change, checks IA status, checks regional allocations, and sets InternalContractStatus to NominationAdd or OnHold as appropriate
+
+19. **Site:** the contract is then move to the dashboard for review or the Hold grid as appropriate
+
+
