@@ -11,11 +11,13 @@
 	www2.shireselect.com	11
 	www3.shireselect.com	1
 	managemykols.com	localhost
+	supportlinx.lecturelinx.com 8
 		
 **Stage**		
 	ss-stage1.lecturelinx.com	none
 	ss-lbax-stage1.lecturelinx.com	10
 	ss-harmony-stage1.lecturelinx.com	12
+	supportlinx-stage1.lecturelinx.com	7
 		
 **Test**		
 	test.bms-managemykols.com	localhost
