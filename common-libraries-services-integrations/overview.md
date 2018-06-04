@@ -27,6 +27,7 @@
 	ss-dev2.lecturelinx.com	9
 	shireorcharddev.lecturelinx.com	3
 	dev-bms-managemykols.lecturelinx.com	localhost
+	supportlinx internal 5
 
 ### Caching schedule by site
 ## Amazon S3
